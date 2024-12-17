@@ -1,15 +1,15 @@
 const blog = [
-    {
-        id: 1,
-        titolo: "Viaggio",
-        contenuto: "Esploriamo le bellezze naturali e storiche dell'Italia.",
-    },
-    {
-        id: 2,
-        titolo: "Moda",
-        contenuto: "Le tendenze più in voga per la stagione autunnale.",
+    // {
+    //     id: 1,
+    //     title: "Viaggio",
+    //     content: "Esploriamo le bellezze naturali e storiche dell'Italia.",
+    // },
+    // {
+    //     id: 2,
+    //     title: "Moda",
+    //     content: "Le tendenze più in voga per la stagione autunnale.",
         
-    }
+    // }
    
 ];
 
